@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/VishwamVishnuTV/static/css/main.a389eb9d.css",
+    "main.js": "/VishwamVishnuTV/static/js/main.2de1d04c.js",
+    "static/js/787.fcafcec2.chunk.js": "/VishwamVishnuTV/static/js/787.fcafcec2.chunk.js",
+    "static/media/Slide2.jpg": "/VishwamVishnuTV/static/media/Slide2.a2afb1939c9c09d6449a.jpg",
+    "static/media/Slide3.jpg": "/VishwamVishnuTV/static/media/Slide3.7d76389d0a6c0615304e.jpg",
+    "static/media/Flower3.png": "/VishwamVishnuTV/static/media/Flower3.ad1e245b24a2c1f2276e.png",
+    "static/media/kasiyatra.jpg": "/VishwamVishnuTV/static/media/kasiyatra.c58a47006a68f5107d95.jpg",
+    "static/media/img30.jpg": "/VishwamVishnuTV/static/media/img30.bd4eaca28a4576130d75.jpg",
+    "static/media/UpdateImage1.jpg": "/VishwamVishnuTV/static/media/UpdateImage1.0bb6deb2bc456e0e62a6.jpg",
+    "static/media/img24.jpg": "/VishwamVishnuTV/static/media/img24.da0170627320a9a55a80.jpg",
+    "static/media/img11.jpg": "/VishwamVishnuTV/static/media/img11.b38baeb730609d4e5027.jpg",
+    "static/media/img5.jpg": "/VishwamVishnuTV/static/media/img5.3883d06bdef1453674e9.jpg",
+    "static/media/Poster1.jpg": "/VishwamVishnuTV/static/media/Poster1.a9e86c7aa6285a4559ba.jpg",
+    "static/media/Poster2.jpg": "/VishwamVishnuTV/static/media/Poster2.8919a9c335e6bf0ffddc.jpg",
+    "index.html": "/VishwamVishnuTV/index.html",
+    "main.a389eb9d.css.map": "/VishwamVishnuTV/static/css/main.a389eb9d.css.map",
+    "main.2de1d04c.js.map": "/VishwamVishnuTV/static/js/main.2de1d04c.js.map",
+    "787.fcafcec2.chunk.js.map": "/VishwamVishnuTV/static/js/787.fcafcec2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a389eb9d.css",
+    "static/js/main.2de1d04c.js"
+  ]
+}
