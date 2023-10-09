@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/VishwamVishnuTV/static/css/main.a389eb9d.css",
-    "main.js": "/VishwamVishnuTV/static/js/main.2de1d04c.js",
+    "main.js": "/VishwamVishnuTV/static/js/main.d2e5b292.js",
     "static/js/787.fcafcec2.chunk.js": "/VishwamVishnuTV/static/js/787.fcafcec2.chunk.js",
     "static/media/Slide2.jpg": "/VishwamVishnuTV/static/media/Slide2.a2afb1939c9c09d6449a.jpg",
     "static/media/Slide3.jpg": "/VishwamVishnuTV/static/media/Slide3.7d76389d0a6c0615304e.jpg",
@@ -16,11 +16,11 @@
     "static/media/Poster2.jpg": "/VishwamVishnuTV/static/media/Poster2.8919a9c335e6bf0ffddc.jpg",
     "index.html": "/VishwamVishnuTV/index.html",
     "main.a389eb9d.css.map": "/VishwamVishnuTV/static/css/main.a389eb9d.css.map",
-    "main.2de1d04c.js.map": "/VishwamVishnuTV/static/js/main.2de1d04c.js.map",
+    "main.d2e5b292.js.map": "/VishwamVishnuTV/static/js/main.d2e5b292.js.map",
     "787.fcafcec2.chunk.js.map": "/VishwamVishnuTV/static/js/787.fcafcec2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a389eb9d.css",
-    "static/js/main.2de1d04c.js"
+    "static/js/main.d2e5b292.js"
   ]
 }
